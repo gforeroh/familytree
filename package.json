@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/gforeroh/familytree.git"
+    "url": "https://github.com/gforeroh/familytree-backend.git"
   },
   "author": "Gerardo Forero",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gforeroh/familytree/issues"
+    "url": "https://github.com/gforeroh/familytree-backend/issues"
   },
-  "homepage": "https://github.com/gforeroh/familytree#readme",
+  "homepage": "https://github.com/gforeroh/familytree-backend#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2"
